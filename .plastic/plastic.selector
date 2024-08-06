@@ -1,0 +1,4 @@
+repository "BurgerChef@ayzit@cloud"
+  path "/"
+    br "/main"
+    co "/main"
